@@ -110,7 +110,7 @@ Completed a 14-week training program focused on professional and personal compet
 
 ## Contact
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bu%C4%9Fra-g%C3%BC%C3%A7l%C3%BC)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bugraguclu)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:smbugraguclu@gmail.com)
 
 ---

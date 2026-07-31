@@ -48,7 +48,7 @@ Istanbul, Turkey
 | [**chatbot-qa-automation**](https://github.com/bugraguclu/chatbot-qa-automation) | CSV-driven regression testing CLI for stateful chatbot APIs, with CI checks | Python · pandas · pytest · GitHub Actions |
 | [**n8n-ai-daily-news-reporter**](https://github.com/bugraguclu/n8n-ai-daily-news-reporter) | Automated Turkish newsletter: RSS collection, LLM ranking and summarization, HTML delivery | n8n · Gemini API · JavaScript · SMTP |
 | [**tus-flashcard-app**](https://github.com/bugraguclu/tus-flashcard-app) | Anki-inspired cross-platform flashcard app designed for medical exam preparation. | React Native · Expo · TypeScript · SQLite |
-| [**qr-generator-with-logo**](https://github.com/bugraguclu/qr-generator-with-logo) | Browser-based QR generator with logo trimming, shape-adaptive backing | JavaScript · HTML5 Canvas |
+| [**qr-generator-with-logo**](https://github.com/bugraguclu/qr-generator-with-logo) | Browser-based QR generator with logo trimming and shape-adaptive backing | JavaScript · HTML5 Canvas |
 
 ---
 
@@ -70,7 +70,9 @@ Istanbul, Turkey
 
 **Enlighty AI** — Intern, AI Analytics Startup  
 *April 2026 – July 2026*  
-Contributed to operational workflows and data-extraction initiatives while supporting broader business processes.
+Built a CSV-driven QA automation tool in Python for the company's chatbot API, replacing manual spot-checks with a repeatable 120-question test set that can be re-run after each change and reviewed from a single output file.
+Supported data-extraction work and internal operational workflows across the product and business side.
+
 
 **Mavi** — Planning Department Intern  
 *February 2025 – August 2025*  
@@ -80,11 +82,11 @@ Supported forecasting, production planning, data analysis, reporting, and proces
 *July 2024 – August 2024*  
 Rotated through four departments to observe end-to-end cement production and distribution, from quarry operations to port shipment.
 
-### Activities & Leadership
-
 **Galatasaray University Business Club** — Career Committee, Team Member → Vice President  
 *September 2022 – September 2024*  
 Organized career events including DepSeç, BizFest, and Yerinde Deneyim.
+
+### Activities
 
 **GençTEMA Community** — Support Committee Member  
 *February 2025 – Present*  

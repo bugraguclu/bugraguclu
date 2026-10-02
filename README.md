@@ -43,7 +43,7 @@ Istanbul, Turkey
 | **Self-Hosted AI Agent Platform** | Private AI-agent deployment on AWS behind a Tailscale mesh VPN, with Telegram routing for multimodal workflows. | AWS · Tailscale · OpenClaw · Telegram API |
 | [**n8n AI News Digest**](https://github.com/bugraguclu/n8n-ai-daily-news-reporter) | End-to-end workflow that collects seven RSS feeds, applies deterministic quality filters, uses Gemini to rank and summarize stories, validates model output, and delivers a resilient Turkish HTML newsletter. | n8n · Gemini API · JavaScript · SMTP |
 | [**Chatbot QA Automation**](https://github.com/bugraguclu/chatbot-qa-automation) | CSV-based regression testing CLI for stateful chatbot APIs, with isolated multi-turn sessions, response and context capture, deterministic answer checks, and transient-error retries. | Python · pandas · pytest |
-| [**QR Generator with Logo**](https://github.com/bugraguclu/qr-generator-with-logo) | Browser-based QR generator with logo trimming and shape-adaptive backing | JavaScript · HTML5 Canvas |
+| [**QR Generator with Logo**](https://github.com/bugraguclu/qr-generator-with-logo) | Browser-based QR generator with logo trimming and shape-adaptive backing. | JavaScript · HTML5 Canvas |
 
 ---
 
@@ -63,12 +63,12 @@ Business Administration, Erasmus Exchange Programme · *September 2024 – Janua
 **PureKo** — Web & AI Intern, K-Beauty Startup  
 *August 2026 – Present*
 - Developed and launched [belif.tr](https://belif.tr), the Turkish website of skincare brand belif, including CMS and cookie-based user analytics.
-- Building the startup's infrastructure from the ground up, supporting day-to-day technical operations and resolving issues.
+- Building the startup's infrastructure from the ground up, supporting day-to-day technical operations, and resolving issues.
 
 **Enlighty AI** — Intern, AI Startup  
 *April 2026 – July 2026*
-- Built a CSV-driven QA automation tool in Python for the company's chatbot API, replacing manual spot-checks with a repeatable 120-question test set that can be re-run after each change and reviewed from a single output file.
-- Supported data-extraction work and internal operational workflows across the product and business side.
+- Built a CSV-driven QA automation tool in Python for the company's chatbot API, replacing manual spot checks with a repeatable 120-question test set that can be re-run after each change and reviewed from a single output file.
+- Supported data-extraction work and internal operational workflows across the product and business sides.
 
 **Mavi** — Planning Department Intern  
 *February 2025 – August 2025*
@@ -81,7 +81,7 @@ Business Administration, Erasmus Exchange Programme · *September 2024 – Janua
 
 **Nuh Çimento** — Production Intern  
 *July 2024 – August 2024*
-- Rotated through four departments observing end-to-end cement production and distribution, from quarry to port shipment.
+- Rotated through four departments, observing end-to-end cement production and distribution, from quarry to port shipment.
 
 ### Activities
 
